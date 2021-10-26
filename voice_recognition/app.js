@@ -23,6 +23,8 @@ const joke = [
   "What kind of tea is hard to swallow? Reality. ",
   "Why don’t dinosaurs talk? Because their dead.",
   "What’s green and has wheels? Grass I lied about the wheels. ",
+  "Three fish are in a tank. One ask the other, How do you drive this thing? ",
+  "An apple a day keeps the doctor away. At least it does if you throw hard enough. ",
 ];
 
 const SpeechRecognition =
