@@ -34,14 +34,14 @@ $(document).ready(function(){
     });
 
     // typing text animation script
-    let typed = new Typed(".typing", {
+    var typed = new Typed(".typing", {
         strings: ["print('Python')", "console.log('JavaScript')", "console.log('NodeJS')", "select MySQL;", "print('Dart')", "nano Linux"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
-    let typed = new Typed(".typing-2", {
+    var typed = new Typed(".typing-2", {
         strings: ['watching sports.','programming.', 'working with and creating databases.', 'reading about and watching tech related content.', 'tinkering.'],
         typeSpeed: 100,
         backSpeed: 60,
