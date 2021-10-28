@@ -41,7 +41,7 @@ $(document).ready(function () {
       "console.log('NodeJS')",
       "select MySQL;",
       "print('Dart')",
-      "nano Linux",
+      "cat Linux",
     ],
     typeSpeed: 100,
     backSpeed: 60,
